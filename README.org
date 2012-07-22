@@ -1,0 +1,10 @@
+* Introduction
+
+This is a simple demo for MPS (Mandarin Phonetic Symbols) input editor
+
+
+* Requirements
+
+1. Python 2.x
+2. pho.tab2.src and zo.kbmsrc. These two files can be found in the GCIN/HIME project
+
